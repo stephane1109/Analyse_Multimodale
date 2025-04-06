@@ -1,0 +1,11 @@
+streamlit
+numpy
+fer
+opencv-python-headless
+yt-dlp
+altair
+pandas
+imageio
+torch
+youtube-transcript-api
+whisper @ git+https://github.com/openai/whisper.git
