@@ -1,4 +1,5 @@
 numpy
+moviepy==1.0.3
 fer
 opencv-python-headless
 yt-dlp
