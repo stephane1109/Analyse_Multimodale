@@ -10,5 +10,5 @@ imageio
 torch
 youtube-transcript-api
 whisper
-opencv-python
+opencv-python-headless
 
