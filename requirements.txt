@@ -6,9 +6,6 @@ opencv-python-headless
 yt-dlp
 altair
 pandas
-imageio
 torch
 youtube-transcript-api
 whisper
-opencv-python-headless
-
