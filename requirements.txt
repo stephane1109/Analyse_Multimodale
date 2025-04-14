@@ -9,3 +9,4 @@ pandas
 torch
 youtube-transcript-api
 whisper
+ffmpeg
